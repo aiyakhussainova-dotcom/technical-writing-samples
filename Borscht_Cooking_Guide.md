@@ -21,9 +21,9 @@ This guide explains how to prepare it step by step, using technical documentatio
 ### For Sauté (Зажарка)
 | Item           | Quantity          |
 |----------------|------------------|
-| Onion (лук)    | 1 medium, diced  |
-| Carrot (морковь)| 1 medium, grated|
-| Beets (свекла) | 2 medium, grated |
+| Onion          | 1 medium, diced  |
+| Carrot         | 1 medium, grated|
+| Beets          | 2 medium, grated |
 | Tomato paste   | 1 tbsp           |
 | Vinegar        | 2 tbsp           |
 | Sugar          | 1 tsp            |
@@ -72,7 +72,7 @@ This guide explains how to prepare it step by step, using technical documentatio
 
 ## Serving
 - Serve hot, topped with sour cream and fresh dill.  
-- Pair with bread or pampushki.  
+- Pair with sourdough bread.
 
 ---
 
